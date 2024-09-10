@@ -1,7 +1,7 @@
 Este é apenas um exemplo no uso do Fork!
 oi
 novo oi
-Mais uma linha
+Mais uma linha/Mais uma LINHA
 fork 2 
 omg
 Mais uma linha
