@@ -2,6 +2,9 @@ Este é apenas um exemplo no uso do Fork!
 oi
 novo oi
 Mais uma linha
+Teste
+Mais um teste
+Teste 2
 fork 2 
 omg
 Mais uma linha
